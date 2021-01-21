@@ -86,10 +86,7 @@ body {
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
-}
-
-.instagram-logout:hover a{
-    border-bottom: solid 1px;
+    transition: 2s;
 }
 
 .not-account {
